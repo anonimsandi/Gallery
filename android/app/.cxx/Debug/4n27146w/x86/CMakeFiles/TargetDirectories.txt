@@ -1,0 +1,2 @@
+C:/gallery-app-2-main/android/app/.cxx/Debug/4n27146w/x86/CMakeFiles/edit_cache.dir
+C:/gallery-app-2-main/android/app/.cxx/Debug/4n27146w/x86/CMakeFiles/rebuild_cache.dir

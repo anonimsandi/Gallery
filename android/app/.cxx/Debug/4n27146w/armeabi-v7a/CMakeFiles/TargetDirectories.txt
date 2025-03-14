@@ -1,0 +1,2 @@
+C:/gallery-app-2-main/android/app/.cxx/Debug/4n27146w/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/gallery-app-2-main/android/app/.cxx/Debug/4n27146w/armeabi-v7a/CMakeFiles/rebuild_cache.dir
